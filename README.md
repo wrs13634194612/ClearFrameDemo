@@ -4,3 +4,4 @@
 3.数字连连看 numlink  <br>
 4.舒尔特方格 schulte <br>
 5.画笔 paint <br>
+6. 舒尔特方格 优化版本 schulte02 <br>
