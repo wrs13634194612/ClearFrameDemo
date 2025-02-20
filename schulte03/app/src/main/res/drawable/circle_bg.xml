@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- 设置背景颜色为半透明 -->
+    <solid android:color="#00BFFF" /> <!-- #80表示50%透明度，000000是黑色 -->
+
+    <!-- 设置形状为圆形 -->
+    <size
+        android:width="100dp"
+        android:height="100dp" />
+    <corners android:radius="50dp" /> <!-- 圆角半径为宽高的一半 -->
+
+    <!-- 设置边框（可选） -->
+<!--    <stroke android:width="2dp" android:color="#FF0000" />-->
+    <!-- 边框宽度为2dp，颜色为红色 -->
+</shape>
